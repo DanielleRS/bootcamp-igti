@@ -1,0 +1,14 @@
+2020-06-17T15:28:34.909Z [my-bank-api] info: API Started!
+2020-06-17T15:42:15.908Z [my-bank-api] info: API Started!
+2020-06-17T15:42:49.196Z [my-bank-api] info: API Started!
+2020-06-17T15:43:04.040Z [my-bank-api] info: POST /account - {"id":9,"name":"Bernardo Alves","balance":641}
+2020-06-17T15:43:55.364Z [my-bank-api] info: API Started!
+2020-06-17T15:44:16.225Z [my-bank-api] info: API Started!
+2020-06-17T15:49:19.217Z [my-bank-api] info: API Started!
+2020-06-17T15:49:32.842Z [my-bank-api] info: GET /account
+2020-06-17T15:49:45.908Z [my-bank-api] info: GET /account/:id - {"id":5,"name":"Danielle Santos 5","balance":600}
+2020-06-17T15:50:15.952Z [my-bank-api] info: PUT /account - {"id":9,"name":"Bernardo Santana","balance":100}
+2020-06-17T15:50:27.062Z [my-bank-api] info: DELETE /account/:id - 9
+2020-06-17T15:50:45.572Z [my-bank-api] info: POST /account/transaction - {}
+2020-06-17T15:51:21.635Z [my-bank-api] info: API Started!
+2020-06-17T15:51:26.038Z [my-bank-api] info: POST /account/transaction - {"id":8,"value":-9}
