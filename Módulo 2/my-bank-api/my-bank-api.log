@@ -12,3 +12,9 @@
 2020-06-17T15:50:45.572Z [my-bank-api] info: POST /account/transaction - {}
 2020-06-17T15:51:21.635Z [my-bank-api] info: API Started!
 2020-06-17T15:51:26.038Z [my-bank-api] info: POST /account/transaction - {"id":8,"value":-9}
+2020-06-17T16:03:17.092Z [my-bank-api] info: API Started!
+2020-06-17T16:03:33.901Z [my-bank-api] info: POST /account/transaction - {"id":8,"value":-9}
+2020-06-17T16:03:38.035Z [my-bank-api] info: GET /account
+2020-06-17T16:03:45.354Z [my-bank-api] info: GET /account/:id - {"id":8,"name":"Danielle Santos 8","balance":64}
+2020-06-17T16:48:59.994Z [my-bank-api] info: API Started!
+2020-06-17T16:50:13.043Z [my-bank-api] info: GET /account
